@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f8f9fa;
-    background-image: url("https://github.com/shaoyuchieng/web/blob/main/static/image/background.jpg");
+    background-image: url("static/image/background.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center; 
